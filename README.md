@@ -1,0 +1,2 @@
+# git
+full stack resources
